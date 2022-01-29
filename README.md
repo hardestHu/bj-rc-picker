@@ -1,3 +1,5 @@
+# 修改部分代码
+  屏蔽掉结束日期绑定的一些方法
 # rc-picker 
 
 [![NPM version][npm-image]][npm-url]

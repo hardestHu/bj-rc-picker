@@ -1,6 +1,6 @@
 {
-  "name": "rc-picker",
-  "version": "2.3.0",
+  "name": "bj-rc-picker",
+  "version": "2.3.1",
   "description": "React date & time picker",
   "keywords": [
     "react",
@@ -19,7 +19,7 @@
   "homepage": "https://react-component.github.io/picker",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/picker.git"
+    "url": "git@github.com:hardestHu/bj-rc-picker.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/picker/issues"
